@@ -13,8 +13,8 @@
 | Python Intermedio | 3 meses     |1300 -1500     | 
 
 ## Enlaces a mis cuentas en redes sociales 
-[facebook](https://facebook.com)
-[Instagram](https://instagram.com)
-[GITHUB](https://github.com/tromitodev)
+* [facebook](https://facebook.com)
+* [Instagram](https://instagram.com)
+* [GITHUB](https://github.com/tromitodev)
 ## Email / correo  
-[Correo GMAIL](https://francisco.pnsu@gmail.com)
+* [Correo GMAIL](https://francisco.pnsu@gmail.com)
