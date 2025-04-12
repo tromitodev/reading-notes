@@ -19,4 +19,4 @@
 ## Email / correo  
 * [Correo GMAIL](https://francisco.pnsu@gmail.com)
 * [Acceso a la guia de MarkDown](https://tromitodev.github.io/reading-notes/markdown-guide)
-* [Laboratorio 7] ( 
+* [Laboratorio 7] ( https://tromitodev.github.io/reading-notes/read07)
